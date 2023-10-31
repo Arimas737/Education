@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;1,900&family=Playpen+Sans&display=swap');
+
+html {
+    background: #FAF2D3;
+}
+.bio {
+    font-family: 'Playpen Sans', cursive; ;
+    padding-left: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background: #F4E869;
+    border-radius: 20px;
+    width: 800px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+.avatar {
+    width: 250px;
+    border-radius: 25px;
+    box-shadow: 8px 8px 14px rgba(0, 0, 0, .25);
+    margin: auto;
+}
+.contact {
+    font-family: 'Playpen Sans', cursive; ;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background: #F4E869;
+    margin: auto;
+    margin-bottom: 15px;
+    width: 800px;
+}
+.hobby  {
+    font-family: 'Playpen Sans', cursive; ;
+    padding-left: 15px;
+    border-radius: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background: #F4E869;
+    margin: auto;
+    margin-bottom: 15px;
+    width: 800px;
+}
+.work {
+    font-family: 'Playpen Sans', cursive; ;
+    padding-left: 15px;
+    border-radius: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background: #F4E869;
+    margin: auto;
+    margin-bottom: 15px;
+    width: 800px;
+}
+.book {
+    font-family: 'Playpen Sans', cursive; ;
+    padding-left: 15px;
+    border-radius: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background: #F4E869;
+    margin: auto;
+    width: 800px;
+}
+.forms h3 { 
+    font-family: 'Playpen Sans', cursive; ; 
+    text-align: center;
+}
+.form-group {
+    display: flex ;
+}
+.form-row {
+    display: flex;
+}
+.form-group {
+    display: inline-block;
+}
+.forms label {
+    display: block;
+}
+.forms input {
+    background: transparent;
+}
+button {
+    color: #444;
+}
+/* /* .form-group input{
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #444; */
+
